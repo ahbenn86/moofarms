@@ -1,5 +1,5 @@
 
-# 🐄 MooFarms FP&A Dashboard
+# 🐄 Moo Farms FP&A Dashboard
 
 ## 📎 View the Live Dashboard
 
